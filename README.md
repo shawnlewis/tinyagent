@@ -27,7 +27,7 @@ ENTER TO START
 
 <press enter>
 
-User: <type this> write a python function that can determine if a chess board is in checkmate
+User: <type this> write a python function that can determine if a chess board is in checkmate. you should keep the problem spec in spec.txt
 ```
 
 ## Pip deps
