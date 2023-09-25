@@ -45,7 +45,7 @@ PYENV_VERSION=tinyagent OPENAI_API_KEY=<key> python tinyagent.py
 
 ## Resuming the agent
 
-You can pass --start_dir to tell the agent to work in an existing directory. For larger problems, you should tell your agent to write a spec.txt or a plan.txt (or you can add spec.txt to the directory yourself). Tell it to update its plan as it goes. That way its easier for subsequent agent runs to get up to speed in the repo.
+You can pass --start_dir to tell the agent to work in an existing directory. For larger problems, you should tell your agent to write a spec.txt containing the problem statement, and a plan.txt containing it's plan (or you can add spec.txt to the directory yourself). Tell it to update its plan as it goes. That way its easier for subsequent agent runs to get up to speed in the repo.
 
 # TODOs
 
