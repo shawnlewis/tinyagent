@@ -1,4 +1,5 @@
 # tinyagent
+![morgymcg_tiny_robot_with_a_face_reading_a_book_storyteller_stev_b88ac6ed-7a1b-4adf-b74a-d5b4f5797a4f](https://github.com/shawnlewis/tinyagent/assets/18441985/ac191004-f1ee-424b-b10b-36c716bf816b)
 
 This is a minimal software developer agent based on gpt-4 that really works.
 
